@@ -17,7 +17,7 @@ menu:
     - name: About
       url: /about/
     - name: R Book
-      url: https://r.edata.ai
+      url: https://r.eddata.ai
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
